@@ -1,4 +1,5 @@
 # ALGORITMO DE BUSCA BINÁRIA EM PYTHON 
+# Este é um algoritmo de busca binária criado em Python, além da busca ele também marca a posição do elemento e o tempo decorrido.
 
 import time
 
