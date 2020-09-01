@@ -1,3 +1,5 @@
+# ALGORITMO DE BUSCA BINÁRIA EM PYTHON 
+
 import time
 
 def busca_binaria(array, buscar):
